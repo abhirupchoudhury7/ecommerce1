@@ -43,9 +43,9 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `contact`, `city`, `address`) VALUES
 (17, 'bubjujh', 'a@ai.com', '3dbe00a167653a1aaee01d93e77e730e', '9999999999', 'jjjjjjjjjj', 'jjjjjjjjj'),
 (16, 'Dragon King', 'king@kingslanding.com', 'ee524456d880f40f7fc135bbea8ba1ab', '7788445599', 'King\'s Landing', 'Red Keep'),
-(15, 'jahirul ', 'jahirul19970328@gmail.com', '525150668c01c4b5093aeddd3d440364', '9999999999', 'silchar', 'jahhhhh'),
-(14, 'Abhirup', 'n@n.com', '887bcbcad86f852b48a9cb81819d7149', '9999999999', 'Silchar', 'Silchar'),
-(13, 'ABHIRUP', 'a@a.com', '887bcbcad86f852b48a9cb81819d7149', '9706942736', 'Silchar', 'Silchar');
+(15, 'bhjukfh ', 'ukkhg f9970328@gmail.com', '525150668c01c4b5093aeddd3d440364', '9999999999', 'silchar', 'jahhhhh'),
+(14, 'fbfdgn', 'n@n.com', '887bcbcad86f852b48a9cb81819d7149', '9999999999', 'new jersey', 'new jersey'),
+(13, 'htyhtj', 'a@a.com', '887bcbcad86f852b48a9cb81819d7149', '9706942736', 'sjgj', 'ijn');
 
 --
 -- Indexes for dumped tables
